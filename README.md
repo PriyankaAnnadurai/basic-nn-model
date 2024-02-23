@@ -52,7 +52,7 @@ Evaluate the model with the testing data.
 ## PROGRAM
 ### Name: Priyanka A
 ### Register Number: 212222230113
-python
+```python
 
 # Importing Modules:
 
@@ -124,7 +124,7 @@ err(y_test,preds)
 x_n1 = [[9]]
 x_n_n = scaler.transform(x_n1)
 ai_brain.predict(x_n_n)
-
+```
 
 ## Dataset Information
 
