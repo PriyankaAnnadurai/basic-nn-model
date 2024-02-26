@@ -15,7 +15,8 @@
 ## Neural Network Model
 
 
-![image](https://github.com/PriyankaAnnadurai/basic-nn-model/assets/118351569/911d5393-052c-4fa4-98ed-fea04e9a2b57)
+![image](https://github.com/PriyankaAnnadurai/basic-nn-model/assets/118351569/ec215fd5-6068-4104-9915-a1f6a90e45a2)
+
 
 
 
