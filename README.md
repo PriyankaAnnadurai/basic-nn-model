@@ -15,7 +15,7 @@
 ## Neural Network Model
 
 
-![image](https://github.com/PriyankaAnnadurai/basic-nn-model/assets/118351569/ec215fd5-6068-4104-9915-a1f6a90e45a2)
+<img src = https://github.com/PriyankaAnnadurai/basic-nn-model/assets/118351569/ec215fd5-6068-4104-9915-a1f6a90e45a2 width=400 height =300>
 
 
 
@@ -129,7 +129,7 @@ ai_brain.predict(x_n_n)
 
 ## Dataset Information
 
-![image](https://github.com/PriyankaAnnadurai/basic-nn-model/assets/118351569/89342cf9-bc51-412d-9aa1-96a212ff4a3a)
+<img src = https://github.com/PriyankaAnnadurai/basic-nn-model/assets/118351569/89342cf9-bc51-412d-9aa1-96a212ff4a3a width=200 height =300>
 
 
 ## OUTPUT
@@ -137,7 +137,7 @@ ai_brain.predict(x_n_n)
 ### Training Loss Vs Iteration Plot
 
 
-![image](https://github.com/PriyankaAnnadurai/basic-nn-model/assets/118351569/34c9657a-026d-4fec-8ae0-c07dc90f8c83)
+<img src = https://github.com/PriyankaAnnadurai/basic-nn-model/assets/118351569/34c9657a-026d-4fec-8ae0-c07dc90f8c83 width=300 height =300>
 
 
 
